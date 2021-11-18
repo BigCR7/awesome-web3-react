@@ -1,5 +1,5 @@
 {
-  "name": "react-web3-network-status",
+  "name": "awesome-web3-react",
   "version": "1.0.0",
   "description": "Simple and subtle Ethereum network status indicator inspired by MetaMask. 🌐🔌",
   "main": "lib/index.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rongierlach/react-web3-network-status.git"
+    "url": "git+https://github.com/rongierlach/awesome-web3-react.git"
   },
   "keywords": [
     "react",
